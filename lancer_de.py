@@ -1,4 +1,5 @@
 import random
+print('game rule: type 1 to roll the dice or 0 to quit the game')
 while True:
     x = int(input('Please clic on any boutum and valid with enter '))
     if x == 1:
